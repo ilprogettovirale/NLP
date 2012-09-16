@@ -1,0 +1,32 @@
+nlpex1
+
+what the meaning of the next line:
+Branch master set up to track remote branch master from origin.
+
+Source: (cmd.exe)
+C:\Dropbox\Public\NLP>git init .
+Initialized empty Git repository in C:/Dropbox/Public/NLP/.git/
+
+C:\Dropbox\Public\NLP>git add .
+
+C:\Dropbox\Public\NLP>git commit
+[master (root-commit) f11e145] first initial version
+ 1 files changed, 36 insertions(+), 0 deletions(-)
+ create mode 100644 nlp.txt
+
+C:\Dropbox\Public\NLP>git remote add origin https://github.com/ilprogettovirale/
+NLP.git
+
+C:\Dropbox\Public\NLP>git push -u origin master
+Username:
+Password:
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 503 bytes, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/ilprogettovirale/NLP.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+
+C:\Dropbox\Public\NLP>
