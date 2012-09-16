@@ -1,0 +1,36 @@
+// 		
+//read line:
+//read the next character
+//read the next character
+//...
+//until you reach the end of the line
+//
+
+//doc: definition of the phrase 'end of the line'
+#define CR '\r'
+#define EOL '\n'
+
+
+#define character char
+#ifdef spellcheckOn
+	#define charater char
+	#define karakter char
+	...
+	//TODO 
+	
+#endif
+//TODO: continue with:
+#define 
+
+read
+	line:
+	next
+		character (output char)
+	
+	command
+	
+... while (
+until you reach the end of the line
+
+//pass once to verify single instance of KEYWORD
+'the' XXX
